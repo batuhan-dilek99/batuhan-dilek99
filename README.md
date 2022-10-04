@@ -3,12 +3,12 @@
   <h1>About Me! 😎</h1>
 
 - 🏫: I'm a Senior Computer Engineering Student at Cankaya University.
-- 🔭: I’m currently working on many small ML projects.
-- 🌱: I’m currently learning Penetration Testing Using <a href ="https://www.hackthebox.com/">Hack the Box</a> 🧠💻🤖
-- 🤔: I’m looking for help with anything I am currently learning! 😅
+- 🔭: I’m currently working as an Research Intern on A High-Performance Intrusion Detection and Prevention Architecture for Software-Defined Container
+Networks in the Cloud Project.
+- 🌱: I’m currently practicing Penetration Testing, using <a href ="https://www.hackthebox.com/">Hack the Box</a> 🧠💻👺
+- 🤔: I’m curious about all Computer Science subjects! 
 - 💬: Ask me about Data Analysis, Visualization and Machine Learning algorithms. 📊📈🤖🧠
-- 😄  Pronouns: He/His
-- ⚡  Fun fact: I play Soccer, Tennis and the Piano! ⚽🎾🎹
+- ⚡  Fun fact: I love playing video games!
 
 ## Profile
 Property                 | Data  
