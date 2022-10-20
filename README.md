@@ -9,6 +9,6 @@ Networks in the Cloud Project.
 - 🤔: I’m fond of Cyber Security and Game Development. But I am curious and open to learn all CS subjects! 
 
 
-![Alt Text][(https://dribbble.com/shots/4809337-Halftone-Oni](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F6201%2Fscreenshots%2F4809337%2Foutput_14ldql.gif&imgrefurl=https%3A%2F%2Fdribbble.com%2Fshots%2F4809337-Halftone-Oni&tbnid=bao_tnQic_VUyM&vet=12ahUKEwjp26HFse_6AhX_n_0HHT3HD_4QMygHegUIARDlAQ..i&docid=6SjXBehHDZHa-M&w=800&h=600&q=oni%20gif&ved=2ahUKEwjp26HFse_6AhX_n_0HHT3HD_4QMygHegUIARDlAQ))
+![Alt Text][(https://cdn.dribbble.com/users/6201/screenshots/4809337/media/b9c7c0839bd0350db517d084c930c37c.gif)
 
 
