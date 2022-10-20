@@ -9,6 +9,6 @@ Networks in the Cloud Project.
 - 🤔: I’m fond of Cyber Security and Game Development. But I am curious and open to learn all CS subjects! 
 
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+<img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://cdn.dribbble.com/users/6201/screenshots/4809337/media/b9c7c0839bd0350db517d084c930c37c.gif)" width="40" height="40" />
 
 
