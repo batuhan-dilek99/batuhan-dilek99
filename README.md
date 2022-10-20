@@ -9,10 +9,6 @@ Networks in the Cloud Project.
 - 🤔: I’m fond of Cyber Security and Game Development. But I am curious and open to learn all CS subjects! 
 
 
+![Alt Text](https://drive.google.com/file/d/1SE_n-QQ9eecPxxXkcn7CJLHxzMbHq8il/view?usp=sharing)
 
 
-----
------
-Credits: [zmcx16](https://github.com/zmcx16)
-
-Last Edited on: 03/09/2020
