@@ -13,7 +13,9 @@ Networks in the Cloud Project.
 
 <h1>Tools<h1/>  
  <p align = "left">
+    <a href = "https://www.python.org/" target= "_blank" rel="noreferrer"> <imgsrc="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="c" width="40" height="40"/> </a>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+   <a href="https://www.cprogramming.com/](https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c" width="40" height="40"/> </a>
    
  <p/>
 <h1>My Stats<h1/>
