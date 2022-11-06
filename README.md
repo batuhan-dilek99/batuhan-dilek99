@@ -12,7 +12,7 @@ Networks in the Cloud Project.
 - 🤔: I’m fond of Cyber Security and Game Development. But I am curious and open to learn all CS subjects! 
 
 <h1>Tools<h1/>  
-  <h2>Programming Languages<h2/>
+<h2>Programming Languages<h2/>
 <p>
     <a href = "https://www.python.org/" target= "_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="c" width="40" height="40"/> </a>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -20,6 +20,10 @@ Networks in the Cloud Project.
    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="c" width="40" height="40"/> </a>
+<p/>
+<h2>Tools<h2/>
+<p>
+ <a href = "https://www.djangoproject.com/" target= "_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="c" width="40" height="40"/> </a>
 <p/>
 <h1>My Stats<h1/>
 
