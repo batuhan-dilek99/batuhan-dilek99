@@ -11,10 +11,9 @@ Networks in the Cloud Project.
 - 🌱: I’m currently practicing Penetration Testing, using <a href ="https://www.hackthebox.com/">Hack the Box</a> 🧠💻👺
 - 🤔: I’m fond of Cyber Security and Game Development. But I am curious and open to learn all CS subjects! 
 
-
-
+<h2>My Stats<h2/>
 
 <p align = "center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=batuhan-dilek99&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="batuhan-dilek99" /></p>
-
+<br/>
 <p align = "center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=batuhan-dilek99&show_icons=true&theme=tokyonight&locale=en" alt="batuhan-dilek99" /></p>
 
