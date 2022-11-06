@@ -24,8 +24,11 @@ Networks in the Cloud Project.
 <p/>
 <h2>Tools<h2/>
 <p>
- <a href = "https://www.djangoproject.com/" target= "_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="c" width="40" height="40"/> </a>
-<a href = " https://dotnet.microsoft.com/" target= "_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="c" width="40" height="40"/> </a>
+<a href = "https://www.djangoproject.com/" target= "_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="c" width="40" height="40"/> </a>
+<a href = "https://dotnet.microsoft.com/" target= "_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="c" width="40" height="40"/> </a>
+<a href = "https://www.sqlite.org/index.html" target= "_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+
 
 <p/>
 <h1>My Stats<h1/>
