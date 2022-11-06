@@ -10,7 +10,7 @@
 Networks in the Cloud Project.
 - 🌱: I’m currently practicing Penetration Testing, using <a href ="https://www.hackthebox.com/">Hack the Box</a> 🧠💻👺
 - 🤔: I’m fond of Cyber Security and Game Development. But I am curious and open to learn all CS subjects! 
-
+<br/><br/>
 <h1>Tools</h1>  
 <h2>Programming Languages</h2>
 <p>
@@ -34,6 +34,7 @@ Networks in the Cloud Project.
 <h2>Operating Systems</h2>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="c" width="40" height="40"/> </a>
+ <br/><br/>
 <h1>My Stats<h1/>
 
 <p align = "center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=batuhan-dilek99&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="batuhan-dilek99" /></p>
