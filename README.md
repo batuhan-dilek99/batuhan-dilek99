@@ -25,6 +25,8 @@ Networks in the Cloud Project.
 <p>
  <a href = "https://www.djangoproject.com/" target= "_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="c" width="40" height="40"/> </a>
 <a href = " https://dotnet.microsoft.com/" target= "_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="c" width="40" height="40"/> </a>
+
+<a href = "https://www.typescriptlang.org/" target= "_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="c" width="40" height="40"/> </a>
 <p/>
 <h1>My Stats<h1/>
 
