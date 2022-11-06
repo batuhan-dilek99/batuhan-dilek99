@@ -14,7 +14,7 @@ Networks in the Cloud Project.
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=batuhan-dilek99&show_icons=true&locale=en&layout=compact" alt="batuhan-dilek99" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=batuhan-dilek99&show_icons=true&locale=en&layout=compact" alt="batuhan-dilek99" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=batuhan-dilek99&show_icons=true&locale=en" alt="batuhan-dilek99" /></p>
 
