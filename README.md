@@ -12,7 +12,7 @@ Networks in the Cloud Project.
 - 🤔: I’m fond of Cyber Security and Game Development. But I am curious and open to learn all CS subjects! 
 
 <h1>Tools</h1>  
-- <h2>Programming Languages</h2>
+<h2>Programming Languages</h2>
 <p>
     <a href = "https://www.python.org/" target= "_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="c" width="40" height="40"/> </a>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -22,7 +22,7 @@ Networks in the Cloud Project.
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="c" width="40" height="40"/> </a>
 <a href = "https://www.typescriptlang.org/" target= "_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="c" width="40" height="40"/> </a>
 <p/>
-- <h2>Tools</h2>
+<h2>Tools</h2>
 <p>
 <a href = "https://www.djangoproject.com/" target= "_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="c" width="40" height="40"/> </a>
 <a href = "https://dotnet.microsoft.com/" target= "_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="c" width="40" height="40"/> </a>
@@ -31,7 +31,7 @@ Networks in the Cloud Project.
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="c" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="c" width="40" height="40"/> </a>
 <p/>
-- <h2>Operating Systems</h2>
+<h2>Operating Systems</h2>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="c" width="40" height="40"/> </a>
 <h1>My Stats<h1/>
