@@ -6,9 +6,8 @@
   <h1>About Me! 😎</h1>
 
 - 🏫: I'm a Senior Computer Engineering Student at Cankaya University.
-- 🔭: I’m currently working as an Penetration Tester in TUBİTAK Cyber Security Institute.
-- 🌱: I’m currently practicing Penetration Testing, using <a href ="https://www.hackthebox.com/">Hack the Box</a> 🧠💻👺
-- 🤔: I’m fond of Cyber Security and Game Development. But I am curious and open to learn all CS subjects! 
+- 🔭: I’m currently working as a Penetration Tester in TUBİTAK Cyber Security Institute.
+- 🤔: I’m fond of Cyber Security and Machine Learning/Deep Learning. But I am curious and open to learn all CS subjects! 
 <br/><br/>
 <h1>Tools</h1>  
 <h2>Programming Languages</h2>
