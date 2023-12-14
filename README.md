@@ -5,8 +5,9 @@
 
   <h1>About Me! 😎</h1>
 
-- 🏫: I'm a Senior Computer Engineering Student at Cankaya University.
-- 🔭: I’m currently working as a Penetration Tester in TUBİTAK Cyber Security Institute.
+- 🎓: I've graduated from my Bachelor's of Computer Engineering from Cankaya University.
+- 🏫: Now I am studying a Master's Degree in Information Technologies in the field of Information at Tampere University
+- 🔭: I am a Web-Penetration Tester.
 - 🤔: I’m fond of Cyber Security and Machine Learning/Deep Learning. But I am curious and open to learn all CS subjects! 
 <br/><br/>
 <h1>Tools</h1>  
