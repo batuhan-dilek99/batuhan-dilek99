@@ -5,7 +5,7 @@
 
   <h1>About Me! 😎</h1>
 
-- 🎓: I've graduated from my Bachelor's of Computer Engineering from Cankaya University.
+- 🎓: I've graduated with a Bachelor's degree in Computer Engineering from Cankaya University.
 - 🏫: Now I am studying a Master's Degree in Information Technologies in the field of Information at Tampere University
 - 🔭: I am a Web-Penetration Tester.
 - 🤔: I’m fond of Cyber Security and Machine Learning/Deep Learning. But I am curious and open to learn all CS subjects! 
