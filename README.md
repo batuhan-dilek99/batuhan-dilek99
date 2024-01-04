@@ -8,7 +8,8 @@
 - 🎓: I've graduated with a Bachelor's degree in Computer Engineering from Cankaya University.
 - 🏫: Now I am studying a Master's Degree in Information Technologies in the field of Information at Tampere University
 - 🔭: I am a Web-Penetration Tester.
-- 🤔: I’m fond of Cyber Security and Machine Learning/Deep Learning. But I am curious and open to learn all CS subjects! 
+- 🤔: I’m fond of Cyber Security and Machine Learning/Deep Learning. But I am curious and open to learn all CS subjects!
+- 🧑🏻‍💻: You can find my blog here -> https://batuhan-dilek99.github.io/
 <br/><br/>
 <h1>Tools</h1>  
 <h2>Programming Languages</h2>
